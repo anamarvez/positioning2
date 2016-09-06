@@ -1,0 +1,32 @@
+body{
+	margin:0px;
+	padding: 0px;
+}
+
+.ladrillo{
+	background-color: #ff4000;
+	height: 400px;
+	width: 400px;	
+	position:static;
+}
+
+.morado{
+	background-color: purple;
+	height: 200px;
+	width: 200px;
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	top:100px;
+	bottom:100px;
+
+
+}
+
+.amarillo{
+	background-color: yellow;
+	height: 100px;
+	width: 100px;
+	position:absolute;
+}
+

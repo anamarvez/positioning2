@@ -1,0 +1,30 @@
+body{
+	margin:0px;
+	padding: 0px;
+}
+
+.azul{
+	background-color: blue;
+	height: 400px;
+	width: 400px;	
+	position:absolute;
+}
+
+.verde{
+	background-color: green;
+	height: 200px;
+	width: 200px;
+	position:static;
+	margin-left:100px;
+	margin-right:200px;
+	margin-top:100px;
+	margin-bottom:100px;
+}
+
+.negro{
+	background-color: black;
+	height: 100px;
+	width: 100px;
+	position:absolute;
+}
+
